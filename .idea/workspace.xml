@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d29a398f-1045-41ba-bd18-b47482a6c027" name="Changes" comment="projekt_shap">
+      <change afterPath="$PROJECT_DIR$/package_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package_1/module_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packege_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packege_2/module_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pok_vode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pok_vode/pack_vod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pack_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pakc_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack_vod.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.pack_vod.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/учеба питон&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Pack_world.executor": "Run",
+    "Python.Pakc_hello.executor": "Run",
+    "Python.pack_vod.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/учеба питон"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\учеба питон" />
